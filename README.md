@@ -5,3 +5,7 @@ The data is obtained from "OECD" website, cleaned using "pandas/numpy", visualiz
 
 
 ![Screenshot 2023-02-27 235717](https://user-images.githubusercontent.com/109976932/221651355-40f52693-a603-40d7-a616-eb4507384067.png)
+
+
+Requirements:
+pip install plotly
